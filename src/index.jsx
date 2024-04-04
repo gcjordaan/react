@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 const fName = "Gideon";
 const lName = "Jordaan";
-const num = 27;
+const num =  7;
 
 ReactDOM.render(
   <div>
